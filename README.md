@@ -1,7 +1,7 @@
-# ExpressJS + Nunjucks
+# Basic: ExpressJS + Nunjucks
 Aplicação com funcionalidades extremamente básicas com Node.JS
 
-### Installation
+### Instalação
 ```sh
 $ yarn
 $ yarn start
