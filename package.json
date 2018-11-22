@@ -1,0 +1,25 @@
+{
+  "name": "Basic-ExpressJS-Nunjucks",
+  "version": "1.0.0",
+  "description": "Aplicação com funcionalidades extremamente básicas com Node.JS",
+  "main": "index.js",
+  "repository": "https://github.com/LucasArusiewicz/Basic-ExpressJS-Nunjucks.git",
+  "author": "LucasArusiewicz <lucasarusiewicz@gmail.com>",
+  "license": "GNU General Public License v3.0",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "nunjucks": "^3.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.18.6"
+  }
+}
